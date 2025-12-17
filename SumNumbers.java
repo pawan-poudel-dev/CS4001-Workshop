@@ -1,15 +1,15 @@
-
-
-public class SumNumbers {//take 5 integers in arrAR and print their sum 
-    public static void main(String [] args){
-        int [] numbers = {23,34,89,34,77};
-        int sum = 0;
-
-        for( int i = 0; i < numbers.length;i++){
-            sum += i;
-
-        }
-System.out.println("The sum of the numbers is " + sum );
+//sum numbers from 0 to 10 
+class SumNumbers{
+    public static void main(String[] args){
+        int i = 1;
+        int sum = 0 ;
+        while(i <= 10){
+        System.out.println(i);
+        sum += i;
+        i++;
+        
+        
+        
     }
-    
-}
+    System.out.println("Sum is: " + sum);
+}}
