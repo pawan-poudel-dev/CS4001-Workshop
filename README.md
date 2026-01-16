@@ -93,4 +93,5 @@ GitHub: poudel-pawan-dev
 Feedback
 
 Suggestions, improvements, and feedback are always welcome.
-Feel free to explore and ⭐ the repository if you like nad love  to learn   and build skills with me 
+Feel free to explore and ⭐ the repository if you like ,love to learn  and build skills with me(code for chaange).
+
